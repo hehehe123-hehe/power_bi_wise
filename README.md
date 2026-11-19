@@ -31,43 +31,43 @@ Each `notes.md` briefly covers what the exercise practiced, the approach taken, 
 
 | Topic | Exercises | Status |
 |---|---|---|
-| Basic reports | 13 | ☐ |
-| Data sources | 5 | ☐ |
-| Query editor | 9 | ☐ |
-| Filtering data | 15 | ☐ |
-| Drill-through | 3 | ☐ |
-| Working with visuals | 2 | ☐ |
-| Charts | 13 | ☐ |
-| Matrices | 1 | ☐ |
-| Basic maps | 8 | ☐ |
-| Calculated columns | 12 | ☐ |
-| Roles and security | 1 | ☐ |
-| Drill-through and bookmarks | 4 | ☐ |
-| Report themes | 2 | ☐ |
-| Power BI mobile | 1 | ☐ |
-| Advanced tables | 5 | ☐ |
-| Conditional formatting | 9 | ☐ |
-| Analytics | 4 | ☐ |
-| Decomposition tree | 2 | ☐ |
-| Other visuals | 7 | ☐ |
-| Tooltips | 4 | ☐ |
-| Bookmarks | 6 | ☐ |
-| Quick measures | 5 | ☐ |
-| Dynamic display | 1 | ☐ |
-| Custom visuals | 3 | ☐ |
-| Advanced data sources | 4 | ☐ |
-| Basic parameters | 2 | ☐ |
-| Column transforms | 2 | ☐ |
-| Combining queries | 2 | ☐ |
-| Manipulation transforms | 1 | ☐ |
-| Normalising tables | 2 | ☐ |
-| Simple parameters | 1 | ☐ |
-| Dropdown parameters | 1 | ☐ |
-| Stored procedures | 1 | ☐ |
-| Dynamic connections | 2 | ☐ |
-| Custom functions | 3 | ☐ |
-| APIs | 3 | ☐ |
-| Power BI Templates | 1 | ☐ |
+| Basic reports | 13 | ✅ |
+| Data sources | 5 | ✅ |
+| Query editor | 9 | ✅ |
+| Filtering data | 15 |✅ |
+| Drill-through | 3 | ✅ |
+| Working with visuals | 2 | ✅ |
+| Charts | 13 | ✅ |
+| Matrices | 1 | ✅ |
+| Basic maps | 8 | ✅ |
+| Calculated columns | 12 | ✅ |
+| Roles and security | 1 | ✅ |
+| Drill-through and bookmarks | 4 | ✅ |
+| Report themes | 2 | ✅ |
+| Power BI mobile | 1 | ✅ |
+| Advanced tables | 5 | ✅ |
+| Conditional formatting | 9 | ✅ |
+| Analytics | 4 | ✅ |
+| Decomposition tree | 2 | ✅ |
+| Other visuals | 7 | ✅ |
+| Tooltips | 4 | ✅ |
+| Bookmarks | 6 | ✅ |
+| Quick measures | 5 | ✅ |
+| Dynamic display | 1 | ✅ |
+| Custom visuals | 3 | ✅ |
+| Advanced data sources | 4 | ✅ |
+| Basic parameters | 2 | ✅ |
+| Column transforms | 2 | ✅ |
+| Combining queries | 2 | ✅ |
+| Manipulation transforms | 1 | ✅ |
+| Normalising tables | 2 | ✅ |
+| Simple parameters | 1 | ✅ |
+| Dropdown parameters | 1 | ✅ |
+| Stored procedures | 1 | ✅ |
+| Dynamic connections | 2 | ✅ |
+| Custom functions | 3 | ✅ |
+| APIs | 3 | ✅ |
+| Power BI Templates | 1 | ✅ |
 
 **Legend:** ☐ not started · 🔶 in progress · ✅ completed
 
@@ -85,3 +85,5 @@ Each `notes.md` briefly covers what the exercise practiced, the approach taken, 
 ## Source
 
 Exercises: [wiseowl.co.uk/power-bi/exercises/power-bi-desktop](https://www.wiseowl.co.uk/power-bi/exercises/power-bi-desktop/)
+
+### notes : custom functions is no all finished since the last exercise related to real training from the website.
